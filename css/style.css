@@ -1,0 +1,21 @@
+#navbar {
+    /* height: 100px; */
+    background-color: #2E3139;
+}
+
+#active {
+    margin-top: 25px;
+}
+
+#active li {
+    padding-left: 90px;
+}
+
+#active li a {
+    color: white;
+}
+
+#active li a:hover {
+    color: #37363B;
+    background-color: #F26C36;
+}
