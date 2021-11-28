@@ -142,3 +142,31 @@ textarea {
 h3 {
     color: white !important;
 }
+
+@media only screen and (max-width: 768px)and (min-width: 425px) {
+    .orderanddelivery {
+        margin-top: 1000px;
+        margin-left: 80px;
+    }
+    .contactUs {
+        margin-left: 70px;
+    }
+    .footer {
+        height: 100px;
+    }
+    .footer h2 {
+        padding-right: 160px;
+    }
+    #menupage {
+        margin-left: 60px;
+    }
+    #welcome {
+        margin-left: 50px;
+    }
+    #active li {
+        padding-left: 100px;
+    }
+    #navbar {
+        margin-left: 50px;
+    }
+}
