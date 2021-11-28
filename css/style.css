@@ -57,3 +57,31 @@
     color: white;
     font-size: 15px;
 }
+
+#menupage {
+    background-color: #FCDD85;
+    height: 620px;
+}
+
+.container-fluid h1 {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+}
+
+.row span {
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.row ul {
+    font-size: 15px;
+    list-style: none;
+    line-height: 30px;
+}
+
+.row h4 {
+    text-align: center;
+}
