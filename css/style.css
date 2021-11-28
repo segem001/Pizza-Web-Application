@@ -170,3 +170,15 @@ h3 {
         margin-left: 50px;
     }
 }
+
+@media only screen and (max-width: 375px) {
+    .orderanddelivery {
+        margin-top: 1000px;
+    }
+    .footer {
+        height: 100px;
+    }
+    .row #images {
+        padding-bottom: 50px;
+    }
+}
