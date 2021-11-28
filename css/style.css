@@ -19,3 +19,16 @@
     color: #37363B;
     background-color: #F26C36;
 }
+
+#name {
+    color: #664830;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+
+#image {
+    width: 120px;
+    height: 50px;
+    padding-left: 20px;
+    padding-bottom: 2px;
+}
