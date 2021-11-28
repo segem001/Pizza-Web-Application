@@ -128,3 +128,17 @@ textarea {
 #btn {
     margin-left: 120px;
 }
+
+.footer {
+    background-color: #FCDD85;
+    height: 50px;
+}
+
+.footer h2 {
+    text-align: center;
+    padding-top: 15px;
+}
+
+h3 {
+    color: white !important;
+}
